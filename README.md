@@ -2,6 +2,6 @@
 
 Repositório utilizado no curso de Aplicações de Técnicas de Aprendizagem de Máquina utilizando R.
 
-#Aulas
+# Aulas
 
-##09/09/2019
+## 09/09/2019
